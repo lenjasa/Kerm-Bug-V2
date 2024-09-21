@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237656520674"
-global.ownername = "Your name"
+global.ownernomer = "491787297129"
+global.ownername = "lenii."
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '237656520674'  //creator number
-global.ownername = 'your name here' //creatoe name
+global.ownernumber = '491787297129'  //creator number
+global.ownername = 'lenniiiissss' //creatoe name
 global.botname = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒\n\nYouTube KermHackTools'
+global.author = 'deinefetteMutter'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -24,16 +24,16 @@ global.wm = "Kerm Bug Bot."
 global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['.']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
